@@ -38,7 +38,7 @@ Easily keep track of ticket availability with real-time alerts!
   - give it a name
   - give it an unique username (ends with \_bot)
 
-  - copy the API token: For example 5401329997:AAF2ZHcsn93lj_qkqKGYyZRNNYC_isV_Vh8
+  - copy the API token: For example 5401329997:AAF2ZHcsn93lj_qkqKGYyZRlNKC_isV_Vh8 `[Not a valid key]`
 
   - Now create a channel/group in Telegram
   - Make the bot an admin of the channel
@@ -53,7 +53,7 @@ Easily keep track of ticket availability with real-time alerts!
    git clone https://github.com/md-Salah/ticket-checking
    ```
 
-2. Go to the `ticket-checking` directory
+2. Change the directory to `TicketTracker`
 
 ## Installation
 
