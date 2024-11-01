@@ -28,7 +28,7 @@ Easily keep track of ticket availability with real-time alerts!
 
   - Now, go to the `KEYS` tab and click on the `ADD KEY` button and select `Create new key` option.
   - Finally, you will see a pop up of How you want to download the key.
-    Select the JSON format
+    Select the JSON format and rename this to `sheet_reader_service_account.json`
 
 - **Generate Telegram Credentials**
 
