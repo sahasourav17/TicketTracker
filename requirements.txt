@@ -1,0 +1,7 @@
+gspread
+pandas
+selenium
+tqdm
+bs4
+requests
+python-dotenv

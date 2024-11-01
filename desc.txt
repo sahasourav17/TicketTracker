@@ -1,0 +1,36 @@
+Point of the bot: Take the link from Google Sheets and scrap SOLD OUT events, notify via Telegram if tickets are found for these SOLD OUT events and the corresponding filtering.
+SEEtickets does not block even with a lot of requests, in case it starts to block, just erase the cookies.
+
+Available sheets:
+https://www.seetickets.com/event/c2c-country-to-country-2025-friday/ovo-hydro/3181540
+
+https://www.seetickets.com/event/james-bay/ovo-arena-wembley/3106251
+
+https://www.seetickets.com/event/inpop-presents-o2-academy-islington/o2-academy-2-islington/3191093
+
+
+Sold out events:
+https://www.seetickets.com/event/greg-davies-full-fat-legend/new-theatre/2989268
+
+https://www.seetickets.com/event/rag-n-bone-man/o2-academy-leeds/3075703
+
+https://www.seetickets.com/event/bullet-for-my-valentine-trivium/ovo-hydro/2954447
+
+
+Available sales:
+https://www.seetickets.com/rd/event/peter-kay-live/utilita-arena/2461349
+
+https://www.seetickets.com/rd/event/paul-weller/caird-hall/2955595
+
+https://www.seetickets.com/rd/event/peter-kay-live/utilita-arena/2461350
+
+
+Bot filters and conditions:
+
+set loop frequency = Every X minutes option (default 30 minutes)
+If it sends a notification on a specific link, it won't send the same link again for another X minutes (60 minutes by default)
+Option to set the minimum quantity, minimum price and maximum price filter
+
+Link to Google Spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1Eb_mwogjdnxqROQgA-lvyG45TXzhGgNo24vybg-M99Q/edit?usp=sharing
